@@ -6,8 +6,9 @@ TITLE Program03_Carrabino
 ; Description: For this assignment we were required to prompt the
 ; user to enter their name and have it output to the user in a greeting
 ; message.We then had to prompt the user to enter numbers in the range
-; from - 100 to - 1. If the user enters a positive number the program will
-; calculate the amount of numbers entered, along with their sum and average.
+; from - 100 to - 1. If the user enters a positive number the program will 
+; exit, otherwise it will calculate the amount of numbers entered, along 
+; with their sum and average.
 ; 
 
 
